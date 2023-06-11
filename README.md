@@ -4,6 +4,8 @@ Currency Converter Using HTML,Css,javascript and currency exchange Api
 
 This is a simple currency converter application built using HTML, CSS, JavaScript, and a currency exchange API. The application allows users to convert between different currencies using real-time exchange rates.
 
+# Demo
+You can see a live demo of the application [Here](https://shubhamu63.github.io/Currency-converter/).
 ## Features
 
 - Real-time currency conversion using an API
@@ -18,7 +20,7 @@ This is a simple currency converter application built using HTML, CSS, JavaScrip
 
 ## APIs Used
 
-- [Currency Exchange API]: This API provides real-time exchange rates for different currencies.
+- [Currency Exchange API](https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD): This API provides real-time exchange rates for different currencies.
 
 ## Getting Started
 
