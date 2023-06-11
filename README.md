@@ -27,23 +27,24 @@ To run the currency converter application locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+   git clone https://github.com/ShubhamU63/Currency-converter.git
    ```
 
 2. Open the project directory:
 
    ```bash
-   cd currency-converter
+   cd Currency-converter
    ```
 
 3. Open the `index.html` file in your preferred web browser.
 
 ## Configuration
 
-To use the currency exchange API, you will need to sign up for an API key. Once you have the API key, replace the `API_KEY` variable in the `script.js` file with your actual API key.
+To use the currency exchange API, you will need to sign up for an API key. Once you have the API key, replace the `apiKey` variable in the 
+`api-key.js` file with your actual API key.
 
 ```javascript
-const API_KEY = 'your-api-key';
+let apiKey = 'your-api-key';
 ```
 
 ## Usage
