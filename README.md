@@ -20,7 +20,7 @@ You can see a live demo of the application [Here](https://shubhamu63.github.io/C
 
 ## APIs Used
 
-- [Currency Exchange API](https://v6.exchangerate-api.com/v6/${apiKey}/latest/USD): This API provides real-time exchange rates for different currencies.
+- [Currency Exchange API](https://v6.exchangerate-api.com): This API provides real-time exchange rates for different currencies.
 
 ## Getting Started
 
